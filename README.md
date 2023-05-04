@@ -6,7 +6,11 @@ This is just another text editor. However, as a Progressive Web Application, it 
 
 ## Installation
 
-The easiest way to use this app is to use the link to the deployed application: https://whispering-mountain-87917.herokuapp.com/. You can create a desktop shortcut by clicking "install!" in the upper lefthand corner. The app is still run through the browser, but you have the ease of access that would come from having a native app on your device. Alternatively, you can clone the repo to your device and deploy it to Heroku yourself. 
+The easiest way to use this app is to use the link to the deployed application: https://whispering-mountain-87917.herokuapp.com/. You can create a desktop shortcut by clicking "install!" in the upper lefthand corner. 
+
+![image](https://user-images.githubusercontent.com/115512219/236336260-cd6e3ed6-562b-47c1-b1a8-82800922738e.png)
+
+The app is still run through the browser, but you have the ease of access that would come from having a native app on your device. Alternatively, you can clone the repo to your device and deploy it to Heroku yourself. 
 
 ## Usage
 
@@ -38,4 +42,8 @@ SOFTWARE.
 
 ## Tests
 
-Once you have opened the app in your browser for the first time, you should be able to type in the text field and see the text appear on the page. Next, if you click "install!", you should see another window pop up which contains the same app. If you check your desktop, there should be an icon which is labeled "jate text editor". If you click the icon, it should open the app once again. 
+Once you have opened the app in your browser for the first time, you should be able to type in the text field and see the text appear on the page. Next, if you click "install!", you should see another window pop up which contains the same app. If you check your desktop, there should be an icon which is labeled "jate text editor". 
+
+![image](https://user-images.githubusercontent.com/115512219/236336383-27795c85-a45e-4bbd-b821-a020b3c6f1d2.png)
+
+If you click the icon, it should open the app once again. 

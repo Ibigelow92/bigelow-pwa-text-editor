@@ -14,7 +14,13 @@ The app is still run through the browser, but you have the ease of access that w
 
 ## Usage
 
-Once you have the app running, you'll find the app works much the same as any other text editor, just without many of the fancy bells and whistles. It is a plain text editor, not unlike Windows Notepad. However, it has the advantage of creating a new line once you are reaching the edge of your window space. 
+Once you have the app running, you'll find the app works much the same as any other text editor, just without many of the fancy bells and whistles. 
+
+![image](https://user-images.githubusercontent.com/115512219/236336792-bf914fe6-ed81-477c-85c4-c44037f60ed9.png)
+
+It is a plain text editor, not unlike Windows Notepad. However, it has the advantage of creating a new line once you are reaching the edge of your window space. 
+
+![image](https://user-images.githubusercontent.com/115512219/236336939-27de6a60-f38d-495d-8f05-3a2160f24471.png)
 
 ## License
 
